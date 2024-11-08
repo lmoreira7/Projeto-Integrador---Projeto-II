@@ -1,6 +1,6 @@
-li $t0, 8  #A
+li $t0, 1  #A
 li $t1, 1  #B
-li $t2, 0  #C
+li $t2, 1  #C
 
 xori $t3, $t0, 1 #!A
 xori $t4, $t1, 1 #!B
